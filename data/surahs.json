@@ -1,0 +1,800 @@
+[
+  {
+    "id": 1,
+    "name_arabic": "الفاتحة",
+    "name_transliterated": "Al-Fātiĥah",
+    "revelation_place": "Makkah",
+    "verses_count": 7
+  },
+  {
+    "id": 2,
+    "name_arabic": "البقرة",
+    "name_transliterated": "Al-Baqarah",
+    "revelation_place": "Madinah",
+    "verses_count": 286
+  },
+  {
+    "id": 3,
+    "name_arabic": "آل عمران",
+    "name_transliterated": "Āli `Imrān",
+    "revelation_place": "Madinah",
+    "verses_count": 200
+  },
+  {
+    "id": 4,
+    "name_arabic": "النساء",
+    "name_transliterated": "An-Nisā",
+    "revelation_place": "Madinah",
+    "verses_count": 176
+  },
+  {
+    "id": 5,
+    "name_arabic": "المائدة",
+    "name_transliterated": "Al-Mā'idah",
+    "revelation_place": "Madinah",
+    "verses_count": 120
+  },
+  {
+    "id": 6,
+    "name_arabic": "الأنعام",
+    "name_transliterated": "Al-'An`ām",
+    "revelation_place": "Makkah",
+    "verses_count": 165
+  },
+  {
+    "id": 7,
+    "name_arabic": "الأعراف",
+    "name_transliterated": "Al-'A`rāf",
+    "revelation_place": "Makkah",
+    "verses_count": 206
+  },
+  {
+    "id": 8,
+    "name_arabic": "الأنفال",
+    "name_transliterated": "Al-'Anfāl",
+    "revelation_place": "Madinah",
+    "verses_count": 75
+  },
+  {
+    "id": 9,
+    "name_arabic": "التوبة",
+    "name_transliterated": "At-Tawbah",
+    "revelation_place": "Madinah",
+    "verses_count": 129
+  },
+  {
+    "id": 10,
+    "name_arabic": "يونس",
+    "name_transliterated": "Yūnus",
+    "revelation_place": "Makkah",
+    "verses_count": 109
+  },
+  {
+    "id": 11,
+    "name_arabic": "هود",
+    "name_transliterated": "Hūd",
+    "revelation_place": "Makkah",
+    "verses_count": 123
+  },
+  {
+    "id": 12,
+    "name_arabic": "يوسف",
+    "name_transliterated": "Yūsuf",
+    "revelation_place": "Makkah",
+    "verses_count": 111
+  },
+  {
+    "id": 13,
+    "name_arabic": "الرعد",
+    "name_transliterated": "Ar-Ra`d",
+    "revelation_place": "Madinah",
+    "verses_count": 43
+  },
+  {
+    "id": 14,
+    "name_arabic": "ابراهيم",
+    "name_transliterated": "Ibrāhīm",
+    "revelation_place": "Makkah",
+    "verses_count": 52
+  },
+  {
+    "id": 15,
+    "name_arabic": "الحجر",
+    "name_transliterated": "Al-Ĥijr",
+    "revelation_place": "Makkah",
+    "verses_count": 99
+  },
+  {
+    "id": 16,
+    "name_arabic": "النحل",
+    "name_transliterated": "An-Naĥl",
+    "revelation_place": "Makkah",
+    "verses_count": 128
+  },
+  {
+    "id": 17,
+    "name_arabic": "الإسراء",
+    "name_transliterated": "Al-'Isrā",
+    "revelation_place": "Makkah",
+    "verses_count": 111
+  },
+  {
+    "id": 18,
+    "name_arabic": "الكهف",
+    "name_transliterated": "Al-Kahf",
+    "revelation_place": "Makkah",
+    "verses_count": 110
+  },
+  {
+    "id": 19,
+    "name_arabic": "مريم",
+    "name_transliterated": "Maryam",
+    "revelation_place": "Makkah",
+    "verses_count": 98
+  },
+  {
+    "id": 20,
+    "name_arabic": "طه",
+    "name_transliterated": "Ţāhā",
+    "revelation_place": "Makkah",
+    "verses_count": 135
+  },
+  {
+    "id": 21,
+    "name_arabic": "الأنبياء",
+    "name_transliterated": "Al-'Anbyā",
+    "revelation_place": "Makkah",
+    "verses_count": 112
+  },
+  {
+    "id": 22,
+    "name_arabic": "الحج",
+    "name_transliterated": "Al-Ĥajj",
+    "revelation_place": "Madinah",
+    "verses_count": 78
+  },
+  {
+    "id": 23,
+    "name_arabic": "المؤمنون",
+    "name_transliterated": "Al-Mu'minūn",
+    "revelation_place": "Makkah",
+    "verses_count": 118
+  },
+  {
+    "id": 24,
+    "name_arabic": "النور",
+    "name_transliterated": "An-Nūr",
+    "revelation_place": "Madinah",
+    "verses_count": 64
+  },
+  {
+    "id": 25,
+    "name_arabic": "الفرقان",
+    "name_transliterated": "Al-Furqān",
+    "revelation_place": "Makkah",
+    "verses_count": 77
+  },
+  {
+    "id": 26,
+    "name_arabic": "الشعراء",
+    "name_transliterated": "Ash-Shu`arā",
+    "revelation_place": "Makkah",
+    "verses_count": 227
+  },
+  {
+    "id": 27,
+    "name_arabic": "النمل",
+    "name_transliterated": "An-Naml",
+    "revelation_place": "Makkah",
+    "verses_count": 93
+  },
+  {
+    "id": 28,
+    "name_arabic": "القصص",
+    "name_transliterated": "Al-Qaşaş",
+    "revelation_place": "Makkah",
+    "verses_count": 88
+  },
+  {
+    "id": 29,
+    "name_arabic": "العنكبوت",
+    "name_transliterated": "Al-`Ankabūt",
+    "revelation_place": "Makkah",
+    "verses_count": 69
+  },
+  {
+    "id": 30,
+    "name_arabic": "الروم",
+    "name_transliterated": "Ar-Rūm",
+    "revelation_place": "Makkah",
+    "verses_count": 60
+  },
+  {
+    "id": 31,
+    "name_arabic": "لقمان",
+    "name_transliterated": "Luqmān",
+    "revelation_place": "Makkah",
+    "verses_count": 34
+  },
+  {
+    "id": 32,
+    "name_arabic": "السجدة",
+    "name_transliterated": "As-Sajdah",
+    "revelation_place": "Makkah",
+    "verses_count": 30
+  },
+  {
+    "id": 33,
+    "name_arabic": "الأحزاب",
+    "name_transliterated": "Al-'Aĥzāb",
+    "revelation_place": "Madinah",
+    "verses_count": 73
+  },
+  {
+    "id": 34,
+    "name_arabic": "سبإ",
+    "name_transliterated": "Saba",
+    "revelation_place": "Makkah",
+    "verses_count": 54
+  },
+  {
+    "id": 35,
+    "name_arabic": "فاطر",
+    "name_transliterated": "Fāţir",
+    "revelation_place": "Makkah",
+    "verses_count": 45
+  },
+  {
+    "id": 36,
+    "name_arabic": "يس",
+    "name_transliterated": "Yā-Sīn",
+    "revelation_place": "Makkah",
+    "verses_count": 83
+  },
+  {
+    "id": 37,
+    "name_arabic": "الصافات",
+    "name_transliterated": "Aş-Şāffāt",
+    "revelation_place": "Makkah",
+    "verses_count": 182
+  },
+  {
+    "id": 38,
+    "name_arabic": "ص",
+    "name_transliterated": "Şād",
+    "revelation_place": "Makkah",
+    "verses_count": 88
+  },
+  {
+    "id": 39,
+    "name_arabic": "الزمر",
+    "name_transliterated": "Az-Zumar",
+    "revelation_place": "Makkah",
+    "verses_count": 75
+  },
+  {
+    "id": 40,
+    "name_arabic": "غافر",
+    "name_transliterated": "Ghāfir",
+    "revelation_place": "Makkah",
+    "verses_count": 85
+  },
+  {
+    "id": 41,
+    "name_arabic": "فصلت",
+    "name_transliterated": "Fuşşilat",
+    "revelation_place": "Makkah",
+    "verses_count": 54
+  },
+  {
+    "id": 42,
+    "name_arabic": "الشورى",
+    "name_transliterated": "Ash-Shūraá",
+    "revelation_place": "Makkah",
+    "verses_count": 53
+  },
+  {
+    "id": 43,
+    "name_arabic": "الزخرف",
+    "name_transliterated": "Az-Zukhruf",
+    "revelation_place": "Makkah",
+    "verses_count": 89
+  },
+  {
+    "id": 44,
+    "name_arabic": "الدخان",
+    "name_transliterated": "Ad-Dukhān",
+    "revelation_place": "Makkah",
+    "verses_count": 59
+  },
+  {
+    "id": 45,
+    "name_arabic": "الجاثية",
+    "name_transliterated": "Al-Jāthiyah",
+    "revelation_place": "Makkah",
+    "verses_count": 37
+  },
+  {
+    "id": 46,
+    "name_arabic": "الأحقاف",
+    "name_transliterated": "Al-'Aĥqāf",
+    "revelation_place": "Makkah",
+    "verses_count": 35
+  },
+  {
+    "id": 47,
+    "name_arabic": "محمد",
+    "name_transliterated": "Muĥammad",
+    "revelation_place": "Madinah",
+    "verses_count": 38
+  },
+  {
+    "id": 48,
+    "name_arabic": "الفتح",
+    "name_transliterated": "Al-Fatĥ",
+    "revelation_place": "Madinah",
+    "verses_count": 29
+  },
+  {
+    "id": 49,
+    "name_arabic": "الحجرات",
+    "name_transliterated": "Al-Ĥujurāt",
+    "revelation_place": "Madinah",
+    "verses_count": 18
+  },
+  {
+    "id": 50,
+    "name_arabic": "ق",
+    "name_transliterated": "Qāf",
+    "revelation_place": "Makkah",
+    "verses_count": 45
+  },
+  {
+    "id": 51,
+    "name_arabic": "الذاريات",
+    "name_transliterated": "Adh-Dhāriyāt",
+    "revelation_place": "Makkah",
+    "verses_count": 60
+  },
+  {
+    "id": 52,
+    "name_arabic": "الطور",
+    "name_transliterated": "Aţ-Ţūr",
+    "revelation_place": "Makkah",
+    "verses_count": 49
+  },
+  {
+    "id": 53,
+    "name_arabic": "النجم",
+    "name_transliterated": "An-Najm",
+    "revelation_place": "Makkah",
+    "verses_count": 62
+  },
+  {
+    "id": 54,
+    "name_arabic": "القمر",
+    "name_transliterated": "Al-Qamar",
+    "revelation_place": "Makkah",
+    "verses_count": 55
+  },
+  {
+    "id": 55,
+    "name_arabic": "الرحمن",
+    "name_transliterated": "Ar-Raĥmān",
+    "revelation_place": "Madinah",
+    "verses_count": 78
+  },
+  {
+    "id": 56,
+    "name_arabic": "الواقعة",
+    "name_transliterated": "Al-Wāqi`ah",
+    "revelation_place": "Makkah",
+    "verses_count": 96
+  },
+  {
+    "id": 57,
+    "name_arabic": "الحديد",
+    "name_transliterated": "Al-Ĥadīd",
+    "revelation_place": "Madinah",
+    "verses_count": 29
+  },
+  {
+    "id": 58,
+    "name_arabic": "المجادلة",
+    "name_transliterated": "Al-Mujādila",
+    "revelation_place": "Madinah",
+    "verses_count": 22
+  },
+  {
+    "id": 59,
+    "name_arabic": "الحشر",
+    "name_transliterated": "Al-Ĥashr",
+    "revelation_place": "Madinah",
+    "verses_count": 24
+  },
+  {
+    "id": 60,
+    "name_arabic": "الممتحنة",
+    "name_transliterated": "Al-Mumtaĥanah",
+    "revelation_place": "Madinah",
+    "verses_count": 13
+  },
+  {
+    "id": 61,
+    "name_arabic": "الصف",
+    "name_transliterated": "Aş-Şaf",
+    "revelation_place": "Madinah",
+    "verses_count": 14
+  },
+  {
+    "id": 62,
+    "name_arabic": "الجمعة",
+    "name_transliterated": "Al-Jumu`ah",
+    "revelation_place": "Madinah",
+    "verses_count": 11
+  },
+  {
+    "id": 63,
+    "name_arabic": "المنافقون",
+    "name_transliterated": "Al-Munāfiqūn",
+    "revelation_place": "Madinah",
+    "verses_count": 11
+  },
+  {
+    "id": 64,
+    "name_arabic": "التغابن",
+    "name_transliterated": "At-Taghābun",
+    "revelation_place": "Madinah",
+    "verses_count": 18
+  },
+  {
+    "id": 65,
+    "name_arabic": "الطلاق",
+    "name_transliterated": "Aţ-Ţalāq",
+    "revelation_place": "Madinah",
+    "verses_count": 12
+  },
+  {
+    "id": 66,
+    "name_arabic": "التحريم",
+    "name_transliterated": "At-Taĥrīm",
+    "revelation_place": "Madinah",
+    "verses_count": 12
+  },
+  {
+    "id": 67,
+    "name_arabic": "الملك",
+    "name_transliterated": "Al-Mulk",
+    "revelation_place": "Makkah",
+    "verses_count": 30
+  },
+  {
+    "id": 68,
+    "name_arabic": "القلم",
+    "name_transliterated": "Al-Qalam",
+    "revelation_place": "Makkah",
+    "verses_count": 52
+  },
+  {
+    "id": 69,
+    "name_arabic": "الحاقة",
+    "name_transliterated": "Al-Ĥāqqah",
+    "revelation_place": "Makkah",
+    "verses_count": 52
+  },
+  {
+    "id": 70,
+    "name_arabic": "المعارج",
+    "name_transliterated": "Al-Ma`ārij",
+    "revelation_place": "Makkah",
+    "verses_count": 44
+  },
+  {
+    "id": 71,
+    "name_arabic": "نوح",
+    "name_transliterated": "Nūĥ",
+    "revelation_place": "Makkah",
+    "verses_count": 28
+  },
+  {
+    "id": 72,
+    "name_arabic": "الجن",
+    "name_transliterated": "Al-Jinn",
+    "revelation_place": "Makkah",
+    "verses_count": 28
+  },
+  {
+    "id": 73,
+    "name_arabic": "المزمل",
+    "name_transliterated": "Al-Muzzammil",
+    "revelation_place": "Makkah",
+    "verses_count": 20
+  },
+  {
+    "id": 74,
+    "name_arabic": "المدثر",
+    "name_transliterated": "Al-Muddaththir",
+    "revelation_place": "Makkah",
+    "verses_count": 56
+  },
+  {
+    "id": 75,
+    "name_arabic": "القيامة",
+    "name_transliterated": "Al-Qiyāmah",
+    "revelation_place": "Makkah",
+    "verses_count": 40
+  },
+  {
+    "id": 76,
+    "name_arabic": "الانسان",
+    "name_transliterated": "Al-'Insān",
+    "revelation_place": "Madinah",
+    "verses_count": 31
+  },
+  {
+    "id": 77,
+    "name_arabic": "المرسلات",
+    "name_transliterated": "Al-Mursalāt",
+    "revelation_place": "Makkah",
+    "verses_count": 50
+  },
+  {
+    "id": 78,
+    "name_arabic": "النبإ",
+    "name_transliterated": "An-Naba",
+    "revelation_place": "Makkah",
+    "verses_count": 40
+  },
+  {
+    "id": 79,
+    "name_arabic": "النازعات",
+    "name_transliterated": "An-Nāzi`āt",
+    "revelation_place": "Makkah",
+    "verses_count": 46
+  },
+  {
+    "id": 80,
+    "name_arabic": "عبس",
+    "name_transliterated": "`Abasa",
+    "revelation_place": "Makkah",
+    "verses_count": 42
+  },
+  {
+    "id": 81,
+    "name_arabic": "التكوير",
+    "name_transliterated": "At-Takwīr",
+    "revelation_place": "Makkah",
+    "verses_count": 29
+  },
+  {
+    "id": 82,
+    "name_arabic": "الإنفطار",
+    "name_transliterated": "Al-'Infiţār",
+    "revelation_place": "Makkah",
+    "verses_count": 19
+  },
+  {
+    "id": 83,
+    "name_arabic": "المطففين",
+    "name_transliterated": "Al-Muţaffifīn",
+    "revelation_place": "Makkah",
+    "verses_count": 36
+  },
+  {
+    "id": 84,
+    "name_arabic": "الإنشقاق",
+    "name_transliterated": "Al-'Inshiqāq",
+    "revelation_place": "Makkah",
+    "verses_count": 25
+  },
+  {
+    "id": 85,
+    "name_arabic": "البروج",
+    "name_transliterated": "Al-Burūj",
+    "revelation_place": "Makkah",
+    "verses_count": 22
+  },
+  {
+    "id": 86,
+    "name_arabic": "الطارق",
+    "name_transliterated": "Aţ-Ţāriq",
+    "revelation_place": "Makkah",
+    "verses_count": 17
+  },
+  {
+    "id": 87,
+    "name_arabic": "الأعلى",
+    "name_transliterated": "Al-'A`lá",
+    "revelation_place": "Makkah",
+    "verses_count": 19
+  },
+  {
+    "id": 88,
+    "name_arabic": "الغاشية",
+    "name_transliterated": "Al-Ghāshiyah",
+    "revelation_place": "Makkah",
+    "verses_count": 26
+  },
+  {
+    "id": 89,
+    "name_arabic": "الفجر",
+    "name_transliterated": "Al-Fajr",
+    "revelation_place": "Makkah",
+    "verses_count": 30
+  },
+  {
+    "id": 90,
+    "name_arabic": "البلد",
+    "name_transliterated": "Al-Balad",
+    "revelation_place": "Makkah",
+    "verses_count": 20
+  },
+  {
+    "id": 91,
+    "name_arabic": "الشمس",
+    "name_transliterated": "Ash-Shams",
+    "revelation_place": "Makkah",
+    "verses_count": 15
+  },
+  {
+    "id": 92,
+    "name_arabic": "الليل",
+    "name_transliterated": "Al-Layl",
+    "revelation_place": "Makkah",
+    "verses_count": 21
+  },
+  {
+    "id": 93,
+    "name_arabic": "الضحى",
+    "name_transliterated": "Ađ-Đuĥaá",
+    "revelation_place": "Makkah",
+    "verses_count": 11
+  },
+  {
+    "id": 94,
+    "name_arabic": "الشرح",
+    "name_transliterated": "Ash-Sharĥ",
+    "revelation_place": "Makkah",
+    "verses_count": 8
+  },
+  {
+    "id": 95,
+    "name_arabic": "التين",
+    "name_transliterated": "At-Tīn",
+    "revelation_place": "Makkah",
+    "verses_count": 8
+  },
+  {
+    "id": 96,
+    "name_arabic": "العلق",
+    "name_transliterated": "Al-`Alaq",
+    "revelation_place": "Makkah",
+    "verses_count": 19
+  },
+  {
+    "id": 97,
+    "name_arabic": "القدر",
+    "name_transliterated": "Al-Qadr",
+    "revelation_place": "Makkah",
+    "verses_count": 5
+  },
+  {
+    "id": 98,
+    "name_arabic": "البينة",
+    "name_transliterated": "Al-Bayyinah",
+    "revelation_place": "Madinah",
+    "verses_count": 8
+  },
+  {
+    "id": 99,
+    "name_arabic": "الزلزلة",
+    "name_transliterated": "Az-Zalzalah",
+    "revelation_place": "Madinah",
+    "verses_count": 8
+  },
+  {
+    "id": 100,
+    "name_arabic": "العاديات",
+    "name_transliterated": "Al-`Ādiyāt",
+    "revelation_place": "Makkah",
+    "verses_count": 11
+  },
+  {
+    "id": 101,
+    "name_arabic": "القارعة",
+    "name_transliterated": "Al-Qāri`ah",
+    "revelation_place": "Makkah",
+    "verses_count": 11
+  },
+  {
+    "id": 102,
+    "name_arabic": "التكاثر",
+    "name_transliterated": "At-Takāthur",
+    "revelation_place": "Makkah",
+    "verses_count": 8
+  },
+  {
+    "id": 103,
+    "name_arabic": "العصر",
+    "name_transliterated": "Al-`Aşr",
+    "revelation_place": "Makkah",
+    "verses_count": 3
+  },
+  {
+    "id": 104,
+    "name_arabic": "الهمزة",
+    "name_transliterated": "Al-Humazah",
+    "revelation_place": "Makkah",
+    "verses_count": 9
+  },
+  {
+    "id": 105,
+    "name_arabic": "الفيل",
+    "name_transliterated": "Al-Fīl",
+    "revelation_place": "Makkah",
+    "verses_count": 5
+  },
+  {
+    "id": 106,
+    "name_arabic": "قريش",
+    "name_transliterated": "Quraysh",
+    "revelation_place": "Makkah",
+    "verses_count": 4
+  },
+  {
+    "id": 107,
+    "name_arabic": "الماعون",
+    "name_transliterated": "Al-Mā`ūn",
+    "revelation_place": "Makkah",
+    "verses_count": 7
+  },
+  {
+    "id": 108,
+    "name_arabic": "الكوثر",
+    "name_transliterated": "Al-Kawthar",
+    "revelation_place": "Makkah",
+    "verses_count": 3
+  },
+  {
+    "id": 109,
+    "name_arabic": "الكافرون",
+    "name_transliterated": "Al-Kāfirūn",
+    "revelation_place": "Makkah",
+    "verses_count": 6
+  },
+  {
+    "id": 110,
+    "name_arabic": "النصر",
+    "name_transliterated": "An-Naşr",
+    "revelation_place": "Madinah",
+    "verses_count": 3
+  },
+  {
+    "id": 111,
+    "name_arabic": "المسد",
+    "name_transliterated": "Al-Masad",
+    "revelation_place": "Makkah",
+    "verses_count": 5
+  },
+  {
+    "id": 112,
+    "name_arabic": "الإخلاص",
+    "name_transliterated": "Al-'Ikhlāş",
+    "revelation_place": "Makkah",
+    "verses_count": 4
+  },
+  {
+    "id": 113,
+    "name_arabic": "الفلق",
+    "name_transliterated": "Al-Falaq",
+    "revelation_place": "Makkah",
+    "verses_count": 5
+  },
+  {
+    "id": 114,
+    "name_arabic": "الناس",
+    "name_transliterated": "An-Nās",
+    "revelation_place": "Makkah",
+    "verses_count": 6
+  }
+]
